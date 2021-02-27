@@ -1,5 +1,5 @@
 
-This is a repo showing how to use [ReScript](https://github.com/rescript-lang/rescript-compiler) with 
+This is a [repo](https://github.com/bobzhang/rescript-deno) showing how to use [ReScript](https://github.com/rescript-lang/rescript-compiler) with 
 [Deno](https://deno.land/#installation).
 
 It assumes you are already familiar with both.
