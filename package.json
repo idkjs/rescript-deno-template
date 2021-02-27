@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "bs-platform": "^9.0.1"
+    "bs-platform": "^9.0.1",
+    "lambda-streams": "^0.1.2"
   }
 }

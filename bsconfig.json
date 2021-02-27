@@ -1,9 +1,13 @@
 {
   "name": "rescript-deno",
   "version": "0.1.0",
-  "sources": {
+  "sources": [{
+    "dir" : "node_modules/lambda-streams/lambda_streams/src",
+    "files" : ["Async.ml", "Finite.ml", "Signal.ml", "Sync.ml", "Connection.ml"]
+  },{
     "dir" : "src",
     "subdirs" : true
-  },
+  }],
+  "bs-dependencies": [],
   "package-specs" : "es6-global"
 }
